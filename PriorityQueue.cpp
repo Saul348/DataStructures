@@ -1,5 +1,4 @@
-//La cola de prioridad se impleto con una lista simplemente ligada, y un monticulo, por lo tanto
-//hay dos clases, heap y cola. 
+//The priority queue was implemented with a simply link list, and a heap
 #include<iostream>
 #include<climits> 
 #include<stdlib.h>
