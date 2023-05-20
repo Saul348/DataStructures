@@ -1,4 +1,4 @@
-//Este algoritmo se implemento con Maxheap, es practicamente el mismo codigo, simplemente agrega la funcion sort
+//This algorithm was implemented with Maxheap, tt's practically the same code just add the sort function
 #include<iostream>
 #include<climits> 
 using namespace std;
