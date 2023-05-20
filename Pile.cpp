@@ -55,6 +55,6 @@ int main(){
 	push(&cabeza, 20);
 	cout<<pop(&cabeza)<<"se saco de la pila"<<endl;
 	cout<<"el elemento de arriba es :"<<peek(cabeza)<<endl;
-	cout<<"el tamaño es :"<<size(&cabeza, contador)<<endl;
+	cout<<"el tamaÃ±o es :"<<size(&cabeza, contador)<<endl;
 	
 }
